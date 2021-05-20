@@ -60,11 +60,11 @@ input.onButtonPressed(Button.A, function () {
 })
 function ledlights () {
     basic.showLeds(`
-        # . . . #
-        . # . . .
-        . . # . .
-        . . . # .
-        . . . . #
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
+        . . . . .
         `)
 }
 input.onButtonPressed(Button.B, function () {
